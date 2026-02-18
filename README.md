@@ -55,7 +55,3 @@ use {
 ```
 
 ---
-
-## License
-
-MIT
